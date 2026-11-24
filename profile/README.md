@@ -1,4 +1,4 @@
-# XDevLabs
+# Quwela
 
 **Independent thinking. Practical engineering.**
 
@@ -23,13 +23,13 @@ We believe in reusing what makes sense, building what matters, and letting the p
 
 ### Explore our work
 
-This GitHub organisation is home to XDevLabs projects, experiments, tools and engineering work.
+This GitHub organisation is home to Quwela projects, experiments, tools and engineering work.
 
 Some repositories are public, others are developed privately, and what's available here will evolve over time.
 
 ### Find out more
 
-**[Explore XDevLabs](https://xdevlabs.io)** · **[What we do](https://xdevlabs.io/solutions/)** · **[Get in touch](https://xdevlabs.io/contact/)**
+**[Explore Quwela](https://quwela.com)** · **[What we do](https://quwela.com/solutions/)** · **[Get in touch](https://quwela.com/contact/)**
 
 ---
 
